@@ -1,0 +1,91 @@
+.list-produtos {
+    height: 250px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 1rem;
+    display: inline-table;
+}
+
+.form-new-produto {
+    width: 600px;
+    margin: 2rem 25% auto 25%;
+    text-align: center;
+}
+
+.btn-acao-produto {
+    float: right;
+    margin-left: 0.5rem;
+    margin-top: 1.5em;
+}
+
+.check-publico{
+    margin: -3px 9px auto -30px;
+}
+
+.input-publico {
+    height: 30px;
+    width: 60px;
+}
+
+.form-new-pessoa {
+    width: 500px;
+    text-align: center;
+    margin: 2em auto;
+}
+
+.label-pessoa {
+    margin: 5px auto 0.5em auto;
+}
+
+.btn-form {
+    margin: 3em 1em auto 1em;
+}
+
+.btn-acoes {
+    margin: auto auto auto 1em;
+}
+
+td {
+    border: 15px;
+}
+
+nav {
+    padding: 1em;
+}
+h5 {
+    text-align: center;
+}
+
+h1.erro-404{
+    color: #0a58ca;
+    text-align: center;
+    font-size: 200px;
+    margin-top: 10%;
+}
+
+p.erro-404{
+    color: #414148bf;
+    text-align: center;
+    font-size: 35px;
+}
+
+img {
+    float: right;
+    height: 350px;
+    margin: auto 20% auto -375px;
+}
+
+.seu-produto {
+    float: left;
+    height: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.produtos-publicos{
+    float: right;
+    height: auto;
+    width: 50%;
+    border-left: solid 0.1px #dfe1e4;
+    text-align: center;
+}
